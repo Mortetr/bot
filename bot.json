@@ -1,6 +1,7 @@
-{
-    "A1B2C3D4E5F6G7H8": {"user": "alpha", "date": "07.08.2025"},
-    "J9K8L7M6N5O4P3Q2": {"user": "bravo", "date": "07.08.2025"},
-    "R1S2T3U4V5W6X7Y8": {"user": "charlie", "date": "07.08.2025"},
-    "Z9A8B7C6D5E4F3G2": {"user": "delta", "date": "10.08.2025"}
-}
+[
+    {
+        "ip": "45.157.16.109",
+        "name": "Aventis",
+        "expiry": "2025-12-31"
+    }
+]
